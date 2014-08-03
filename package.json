@@ -1,0 +1,25 @@
+{
+  "name": "noted-db",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sorribas/noted-db"
+  },
+  "author": "Eduardo Sorribas <eduardo@sorribas.org> (http://sorribas.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorribas/noted-db/issues"
+  },
+  "homepage": "https://github.com/sorribas/noted-db",
+  "dependencies": {
+    "mongojs": "^0.13.1",
+    "submongojs": "^0.1.4",
+    "mongohooks": "^0.3.0",
+    "param": "^1.0.1"
+  }
+}
